@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54aa8c43-d670-42d3-84eb-ac6cafb65bfc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SiteC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MeowSite/frontend/vercel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowSite" beforeDir="false" afterPath="$PROJECT_DIR$/MeowSite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MeowSite/frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/MeowSite/frontend/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MeowSite/frontend/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/MeowSite/frontend/public/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MeowSite/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/MeowSite/frontend/src/App.js" afterDir="false" />
