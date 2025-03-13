@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54aa8c43-d670-42d3-84eb-ac6cafb65bfc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MeowSite/frontend/vercel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MeowSite" beforeDir="false" afterPath="$PROJECT_DIR$/MeowSite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeowSite/frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/MeowSite/frontend/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeowSite/frontend/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/MeowSite/frontend/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeowSite/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/MeowSite/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowSite/frontend/.env" beforeDir="false" afterPath="$PROJECT_DIR$/MeowSite/frontend/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowSite/frontend/.env.development" beforeDir="false" afterPath="$PROJECT_DIR$/MeowSite/frontend/.env.development" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowSite/frontend/src/RecipeDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/MeowSite/frontend/src/RecipeDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowSite/frontend/src/Sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/MeowSite/frontend/src/Sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowSite/frontend/vercel.json" beforeDir="false" afterPath="$PROJECT_DIR$/MeowSite/frontend/vercel.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +49,15 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Max/PycharmProjects/My project11&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Max\PycharmProjects\SiteC\MeowSite\frontend\public\js" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
